@@ -18,7 +18,7 @@ const MainApp = ({
           options={{ title: 'Home' }}
         />
         <Stack.Screen
-          name="details"
+          name="Details"
           component={Details}
           options={{ title: 'Details' }}
         />
